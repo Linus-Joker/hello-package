@@ -1,0 +1,14 @@
+{
+    "name": "milk/hello",
+    "description": "package test",
+    "authors": [{
+        "name": "Linus-Joker",
+        "email": "milk790513@yahoo.com.tw"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "milk\\hello\\": "src"
+        }
+    }
+}
